@@ -1,3 +1,4 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-Elegoo PET-CF filament,1,Amazon,$30.00,$30.00,https://www.amazon.com/gp/product/B0G51QC1PM/ref=ewc_pr_img_3?smid=A2WWHQ25ENKVJ1&th=1
-Estimated total shipping,1,,,$0.00,
+Part Name,Description,Quantity,Unit Price,Total Price,Vendor
+Elegoo PET-CF filament,to print the parts with high rigidity,1,$30.00,$30.00,Amazon
+Tax & shipping,for the whole order,-,-,$0.00,-
+Total,,,,$30.00,
