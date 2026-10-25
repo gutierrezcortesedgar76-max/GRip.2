@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv8ucxv000ke01r96mdvzvb9). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A robotic gripper for an upcoming project :)
+> A robotic gripper for an upcoming project :) This is designed to pick up various objects from rings to bean bags.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
