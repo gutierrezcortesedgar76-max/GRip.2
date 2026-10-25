@@ -25,29 +25,29 @@
 
 Ive been busy the whole week so im starting with 2 days left in the week! today i worked on the base of the gripper and the elbow since I decided to do the whole arm . I havent used CAD software so I looked up youtube tutorials on how to make gears, componets, etc for the project. It was a lot of troubleshooting but I got the base and the elbow done so it can fit in the chassis of a robot im working on. I also sarted printing the parts with my 3d printer with PETG to test tolerances and it worked first try!
 
-![Screenshot 2026-10-16 202626](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/86f8402476813fc803f60f2cac9811b0a48a0d19cf2f5803a537eb0fb281b255.png)
+![Screenshot 2026-10-16 202626](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/86f8402476813fc803f60f2cac9811b0a48a0d19cf2f5803a537eb0fb281b255.png)
 
-![Screenshot 2026-10-16 202639](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/62eaa6cae54cdbe2af8e0fd6d76f855e34c8ab77e2e695e4afbb30557c5e7742.png)
+![Screenshot 2026-10-16 202639](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/62eaa6cae54cdbe2af8e0fd6d76f855e34c8ab77e2e695e4afbb30557c5e7742.png)
 
-![Screenshot 2026-10-16 202650](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/5c7d7a25ae745266fbac9a6428e7616cef92921c2b9ba9bbe1019460bb50f052.png)
+![Screenshot 2026-10-16 202650](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/5c7d7a25ae745266fbac9a6428e7616cef92921c2b9ba9bbe1019460bb50f052.png)
 
-![Screenshot 2026-10-16 202700](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/7b50ab36206c92485c740d5b482894f083df7845363397bfd690fde59d8d6b93.png)
+![Screenshot 2026-10-16 202700](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/7b50ab36206c92485c740d5b482894f083df7845363397bfd690fde59d8d6b93.png)
 
-![Screenshot 2026-10-16 202722](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/5b16d0007934c12d1a874949723ba5c5d6c789dffa468128504f588f24db143c.png)
+![Screenshot 2026-10-16 202722](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/5b16d0007934c12d1a874949723ba5c5d6c789dffa468128504f588f24db143c.png)
 
-![Screenshot 2026-10-16 202731](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/ea514ec78273f0d561d62363cbb0e551079d51a6a2588d5bfefc29e56e43bc4a.png)
+![Screenshot 2026-10-16 202731](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/ea514ec78273f0d561d62363cbb0e551079d51a6a2588d5bfefc29e56e43bc4a.png)
 
-![Screenshot 2026-10-16 202741](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/092f291dd812a074e2c9dd0142ecb3a0b8383c20f6e0037cf53bab0ccc59fa97.png)
+![Screenshot 2026-10-16 202741](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/092f291dd812a074e2c9dd0142ecb3a0b8383c20f6e0037cf53bab0ccc59fa97.png)
 
-![Screenshot 2026-10-16 202817](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/a9b34ad7df147f992eeb304627b899be65689f975d0d6ef39b0d8bab97d737a0.png)
+![Screenshot 2026-10-16 202817](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/a9b34ad7df147f992eeb304627b899be65689f975d0d6ef39b0d8bab97d737a0.png)
 
-![Screenshot 2026-10-16 202825](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/7ff83dff9639c17dae6525d7b3e80d0a6d19c99b9b1716934dfa480024275cd4.png)
+![Screenshot 2026-10-16 202825](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/7ff83dff9639c17dae6525d7b3e80d0a6d19c99b9b1716934dfa480024275cd4.png)
 
-![Screenshot 2026-10-16 202947](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/862f4def4230dde9cd9c726e5d1c9e24a49d4f9951f79e3e55428b54e9d80113.png)
+![Screenshot 2026-10-16 202947](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/862f4def4230dde9cd9c726e5d1c9e24a49d4f9951f79e3e55428b54e9d80113.png)
 
-![20261016_203231](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/8c08571ef4bb0bfe39421a2378efa46c70303f4ca422c1f81e0f09bb741a3915.jpg)
+![20261016_203231](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/8c08571ef4bb0bfe39421a2378efa46c70303f4ca422c1f81e0f09bb741a3915.jpg)
 
-![20261016_203223](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/c289b2b2dadcfc73eb015e8292fa7a20d4b7283a74891dc4cc78a04d0da1f5aa.jpg)
+![20261016_203223](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/c289b2b2dadcfc73eb015e8292fa7a20d4b7283a74891dc4cc78a04d0da1f5aa.jpg)
 
 ### 2026-10-16 – Who wouldve thought that modeling bevel gears would be so hard? I started making the wrist during this time frame and my first attempt, followed a tutorial on youtube on how to model the gears. When i
 
@@ -55,22 +55,22 @@ Ive been busy the whole week so im starting with 2 days left in the week! today 
 
 Who wouldve thought that modeling bevel gears would be so hard? I started making the wrist during this time frame and my first attempt, followed a tutorial on youtube on how to model the gears. When i went to go put the gears in the assembly, they werent meshing properly. I went to my engineering teachers at school to ask for help and they didnt even know. Ive spent hours trying to model the gears but I remembered that the CAD program that i was using had featurescripts, so I searched for bevel gears and low and behold. it was there. So i literary spent hours on the fricking claw ); I also started on the code of the arm. The language Im using is Java and it not nearly done but hopefully by tomorrow it should be done.
 
-![Screenshot 2026-10-16 212152](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/dfb26dfc5541178c39a9e7f0160bf1da8aa03acc5a7deab3f04fb582b9d1619c.png)
+![Screenshot 2026-10-16 212152](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/dfb26dfc5541178c39a9e7f0160bf1da8aa03acc5a7deab3f04fb582b9d1619c.png)
 
-![Screenshot 2026-10-16 212120](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/45fcaef7b9ff0502e4de91fda0dfb045c21a913b3b156d66ac5abbab7ff655f8.png)
+![Screenshot 2026-10-16 212120](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/45fcaef7b9ff0502e4de91fda0dfb045c21a913b3b156d66ac5abbab7ff655f8.png)
 
-![Screenshot 2026-10-16 212217](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/ed0df4b307fc6c8068cf87eb9792443a2b13a7a2fa76b42248406ca10f32e963.png)
+![Screenshot 2026-10-16 212217](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/ed0df4b307fc6c8068cf87eb9792443a2b13a7a2fa76b42248406ca10f32e963.png)
 
-![Screenshot 2026-10-16 212037](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/12821f3e582c4fb9570cc5b279559476d3721c1087520aeed76a38eb04cb1e8c.png)
+![Screenshot 2026-10-16 212037](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/12821f3e582c4fb9570cc5b279559476d3721c1087520aeed76a38eb04cb1e8c.png)
 
-![Screenshot 2026-10-16 211951](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/6b434e141179bbb1d476d1e7b6713a59771b81097d98a3441d4164a10acd3e50.png)
+![Screenshot 2026-10-16 211951](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/6b434e141179bbb1d476d1e7b6713a59771b81097d98a3441d4164a10acd3e50.png)
 
-![Screenshot 2026-10-16 211924](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/a0252197670d9713385510b57caa53d76f27e12f72ee725464404ffc7ae8dd7e.png)
+![Screenshot 2026-10-16 211924](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/a0252197670d9713385510b57caa53d76f27e12f72ee725464404ffc7ae8dd7e.png)
 
-![Screenshot 2026-10-16 211909](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/5ec732e30be3480c3651d55c4d9c5fca9834f9d0662534168d3420f8b2b3021f.png)
+![Screenshot 2026-10-16 211909](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/5ec732e30be3480c3651d55c4d9c5fca9834f9d0662534168d3420f8b2b3021f.png)
 
-![Screenshot 2026-10-16 211858](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/ccd89dd74bf192a5a1d54b0dcdff28a77a72127265adaabdb10361ce50ff0d23.png)
+![Screenshot 2026-10-16 211858](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/ccd89dd74bf192a5a1d54b0dcdff28a77a72127265adaabdb10361ce50ff0d23.png)
 
-![Screenshot 2026-10-16 211846](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/a92e3bcab63cca799ab885f72b7231bade25f59e852e5e940ecb42c2cfb80a7a.png)
+![Screenshot 2026-10-16 211846](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/a92e3bcab63cca799ab885f72b7231bade25f59e852e5e940ecb42c2cfb80a7a.png)
 
-![Screenshot 2026-10-16 212014](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/79629df421ddcc193dc64269c5cd25967bc83a2cbb4e05dd9922883532ff1783.png)
+![Screenshot 2026-10-16 212014](https://halflife.hackclub-assets.com/sessions/7yXBygc1Lsp3sEr6O49zL7MmPnGv8t73/79629df421ddcc193dc64269c5cd25967bc83a2cbb4e05dd9922883532ff1783.png)
