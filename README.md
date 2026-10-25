@@ -4,8 +4,8 @@ This is a triple servo wrist and claw and the base of the arm for a upcoming rob
 The CAD software I used was Onshape since it runs on browser and uses limited resources. 
 I also used feature scripts found in the app store of Onshape to make the process easier (bevel gears and gears)
 # Componets
-This was designed with Gobilda parts in mind like the torque servos and the motor and everything is connected with M4 screws. I will link the Onshape to view the parts. 
-https://cad.onshape.com/documents/a950c2676336daaebcd4e5ab/w/e07a26cbac491ce13215a78b/e/571ba83049ff31917441472c?renderMode=0&uiState=6ad40d9457fff16aba362be6
+This was designed with Gobilda parts in mind like the torque servosand everything is connected with M4 screws. I will link the Onshape to view the parts. 
+https://cad.onshape.com/documents/43ab240c0f249045d4e068f9/w/50744edd837c84646b843862/e/940f4fbc4cb74144383b3b63?renderMode=0&uiState=6ade3a3dfc37851a5aa3ce04
 # BOM
 | PART | QTY | UNIT | TOTAL | VENDOR | LINK |
 | :--- | :---: | :---: | :---: | :--- | :--- |
